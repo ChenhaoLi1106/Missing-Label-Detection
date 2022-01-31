@@ -1,6 +1,5 @@
 # Missing-Label-Detection
 
-## ZJUI ECE449 Project Code
 
 ### Author: 
 - Wenhao, Chai
