@@ -7,8 +7,6 @@
 - Han, Yang
 - Mu, Xie
 
-*The whole report is on* [here](https://github.com/Reself-C/Missing-Label-Detection/blob/main/Missing%20Label%20Detection.pdf)
-
 ### Project Background
 
 Impressive results have been achieved on object detection benchmarks by supervised object detection
